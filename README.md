@@ -1,3 +1,4 @@
-# Food_Delivery_Template
+# https://regu-res-template.netlify.app/
+Food App Template
 Attractive Restaurant Template.
-link:regu-res-template.netlify.app
+
