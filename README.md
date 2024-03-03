@@ -1,4 +1,4 @@
-# https://regu-res-template.netlify.app/
-Food App Template
+Food APP Template
+https://regu-res-template.netlify.app/
 Attractive Restaurant Template.
 
